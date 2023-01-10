@@ -1,38 +1,47 @@
+      
 body {
     margin: 0;
-  
     font-family: sans-serif;
     background-color: whitesmoke;
   }
   
+
   ul {
     margin: 0;
     list-style-type: none;
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 20px;
   }
   
   nav {
-    background-color: forestgreen;
+    background-color: midnightblue;
   }
   
   a {
     text-decoration: none;
+    color: white;
+    
+
   }
   
   img {
-    max-height: 130px;
+    max-height: 200px;
     display: flex;
     justify-content: center;
+    margin: auto;
   }
   
   h1 {
-    /* text-align: center; */
     display: flex;
     justify-content: center;
   }
   
+  h2 {
+    display: flex;
+    justify-content: center;
+  }
+
   article {
     margin: 0 16px;
   }
@@ -41,16 +50,4 @@ body {
     font-weight: 500;
   }
   
-  .icon {
-    height: fit-content;
-    width: fit-content;
-  }
   
-  .icon-image {
-    width: 60px;
-    height: 60px;
-  }
-  Footer
-  © 2023 GitHub, Inc.
-  Footer navigation
-  T
