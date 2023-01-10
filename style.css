@@ -2,13 +2,13 @@
 body {
     margin: 0;
     font-family: sans-serif;
-    background-color: whitesmoke;
+    background-color: pink;
   }
   
   footer {
     margin: auto;
     display: flex;
-    
+
   }
 
   ul {
